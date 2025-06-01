@@ -13,7 +13,7 @@
     padding: 15px 25px;
     margin-top: 30px;
     margin-left: 50px ;
-    background-color: bisque;
+    background-color: burlywood;
     font-size: 35px;
     color: rgb(0, 0, 0);
     text-decoration: none;
@@ -32,7 +32,7 @@
     padding: 15px 25px;
     margin-top: 30px;
     margin-left: 630px ;
-    background-color: bisque;
+    background-color: burlywood;
     color: rgb(0, 0, 0);
     text-decoration: none;
     border: 2px solid black;
@@ -50,7 +50,7 @@
     padding: 15px 25px;
     margin-top: 30px;
     margin-left: 60px;
-    background-color: bisque;
+    background-color: burlywood;
     color: rgb(0, 0, 0);
     text-decoration: none;
     border: 2px solid black;
@@ -68,7 +68,7 @@
     padding: 15px 25px;
     margin-top: 30px;
     margin-left: 60px;
-    background-color: bisque;
+    background-color: burlywood;
     color: rgb(0, 0, 0);
     text-decoration: none;
     border: 2px solid black;
@@ -86,7 +86,7 @@
     padding: 15px 25px;
     margin-top: 30px;
     margin-left: 60px;
-    background-color: bisque;
+    background-color: burlywood;
     color: rgb(0, 0, 0);
     text-decoration: none;
     border: 2px solid black;
@@ -100,7 +100,7 @@
     cursor: pointer
 }
 
-.quemsomos{
+.delicias{
     font-size: 30px;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
@@ -111,5 +111,10 @@
 }
 
 .somos{
-    margin-top: 15px;
+    margin-top: 25px;
 }
+
+.temos{
+    margin-top: -15px;
+}
+
