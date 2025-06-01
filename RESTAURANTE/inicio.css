@@ -9,10 +9,28 @@
     background-color: black;
 }
 
+.nome{
+    padding: 15px 25px;
+    margin-top: 30px;
+    margin-left: 50px ;
+    background-color: bisque;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.nome:hover{
+    color: white; 
+    background-color: coral; 
+    cursor: pointer;
+}
+
 .home{
     padding: 15px 25px;
     margin-top: 30px;
-    margin-left: 950px ;
+    margin-left: 850px ;
     background-color: bisque;
     color: rgb(0, 0, 0);
     text-decoration: none;
@@ -24,7 +42,7 @@
 .home:hover{
     color: white; 
     background-color: coral; 
-    cursor: pointer
+    cursor: pointer;
 }
 
 .cardapio{
