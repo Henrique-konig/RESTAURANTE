@@ -104,8 +104,9 @@
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
     margin-top: 0px;
-    border: 2px solid black;
-    padding-bottom: 100px;
+    border: 1px solid black;
+    border-bottom: 0px;
+    padding-bottom: 0px;
     background-color: blanchedalmond;
 }
 
@@ -181,7 +182,7 @@
     width: 300px;
     height: 250px;
     border-radius: 15px;
-    margin-left: 4px;
+    margin-left: 6px;
     margin-top: 5px;
     box-shadow: 1px 1px 10px 1px black;
 }
@@ -221,3 +222,73 @@
     margin-top: 5px;
     box-shadow: 1px 1px 10px 1px black;
 }
+
+.gerenciador{
+    text-align: center;
+    border: 2px solid black;
+    padding-bottom: 20px;
+    margin-top: 35px;
+    background-color: rgb(104, 91, 75);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.acessecardapio{
+    padding: 10px;
+    border: 2px solid black;
+    margin-left: 300px;
+    margin-top: 25px;
+    border-radius: 10px ;
+    background-color: burlywood;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.acessecardapio:hover{
+    color: white; 
+    background-color: coral; 
+    cursor: pointer
+}
+
+.pecadelivery{
+    padding: 10px;
+    border: 2px solid black;
+    margin-left: 200px;
+    margin-top: 25px;
+    border-radius: 10px ;
+    background-color: burlywood;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.pecadelivery:hover{
+    color: white; 
+    background-color: coral; 
+    cursor: pointer
+}
+
+.facareserva{
+    padding: 10px;
+    border: 2px solid black;
+    margin-left: 200px;
+    margin-top: 25px;
+    border-radius: 10px ;
+    background-color: burlywood;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.facareserva:hover{
+    color: white; 
+    background-color: coral; 
+    cursor: pointer
+}
+
+.fim{
+    border: 0px solid black;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-bottom: 15px;
+}
+
