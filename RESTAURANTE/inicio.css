@@ -119,9 +119,101 @@
 }
 
 .escolhas{
-    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.pizzadoce{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: burlywood;
+    margin-left: 5px;
+    padding: 5px;
+    margin-top: 0px;
+}
+
+.pizzasalgada{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: burlywood;
+    padding: 5px;
+    margin-top: 0px;
+}
+
+.donalts{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: burlywood;
+    padding: 5px;
+    margin-top: 0px;
+}
+
+.minipao{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: burlywood;
+    padding: 5px;
+    margin-top: 0px;
+}
+
+.minipastel{
+    border: 2px solid black;
+    border-radius: 5px;
+    background-color: burlywood;
+    padding: 5px;
+    margin-top: 0px;
+    margin-right: 5px;
+}
+
+.imagenscomidas{
     display: flex;
     flex-direction: row;
     align-items: center;
     flex-wrap: wrap;
+}
+
+.imagempizzadoce{
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+    box-shadow: 1px 1px 10px 1px black;
+}
+
+.imagempizzasalgada{
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+    box-shadow: 1px 1px 10px 1px black;
+}
+
+.imagemdonalts{
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+    box-shadow: 1px 1px 10px 1px black;
+}
+
+.imagempao{
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+    box-shadow: 1px 1px 10px 1px black;
+}
+
+.imagemPastel{
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 3px;
+    margin-top: 10px;
+    box-shadow: 1px 1px 10px 1px black;
 }
