@@ -121,49 +121,53 @@
 .escolhas{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .pizzadoce{
     border: 2px solid black;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: burlywood;
-    margin-left: 5px;
+    margin-left: 45px;
     padding: 5px;
     margin-top: 0px;
 }
 
 .pizzasalgada{
     border: 2px solid black;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: burlywood;
     padding: 5px;
     margin-top: 0px;
+    margin-left: 182px;
 }
 
 .donalts{
     border: 2px solid black;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: burlywood;
     padding: 5px;
     margin-top: 0px;
+    margin-left: 218px;
 }
 
 .minipao{
     border: 2px solid black;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: burlywood;
     padding: 5px;
     margin-top: 0px;
+    margin-left: 220px;
 }
 
 .minipastel{
     border: 2px solid black;
-    border-radius: 5px;
+    border-radius: 10px;
     background-color: burlywood;
     padding: 5px;
     margin-top: 0px;
-    margin-right: 5px;
+    margin-left: 180px;
 }
 
 .imagenscomidas{
@@ -177,8 +181,8 @@
     width: 300px;
     height: 250px;
     border-radius: 15px;
-    margin-left: 3px;
-    margin-top: 10px;
+    margin-left: 4px;
+    margin-top: -30px;
     box-shadow: 1px 1px 10px 1px black;
 }
 
@@ -186,8 +190,8 @@
     width: 300px;
     height: 250px;
     border-radius: 15px;
-    margin-left: 3px;
-    margin-top: 10px;
+    margin-left: 100px;
+    margin-top: -30px;
     box-shadow: 1px 1px 10px 1px black;
 }
 
@@ -195,8 +199,8 @@
     width: 300px;
     height: 250px;
     border-radius: 15px;
-    margin-left: 3px;
-    margin-top: 10px;
+    margin-left: 110px;
+    margin-top: -30px;
     box-shadow: 1px 1px 10px 1px black;
 }
 
@@ -204,8 +208,8 @@
     width: 300px;
     height: 250px;
     border-radius: 15px;
-    margin-left: 3px;
-    margin-top: 10px;
+    margin-left: 95px;
+    margin-top: -30px;
     box-shadow: 1px 1px 10px 1px black;
 }
 
@@ -213,7 +217,7 @@
     width: 300px;
     height: 250px;
     border-radius: 15px;
-    margin-left: 3px;
-    margin-top: 10px;
+    margin-left: 90px;
+    margin-top: -30px;
     box-shadow: 1px 1px 10px 1px black;
 }
