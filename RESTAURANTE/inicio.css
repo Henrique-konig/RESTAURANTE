@@ -284,7 +284,28 @@
 }
 
 .fim{
+    margin-top: 0px;
     border: 0px solid black;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-bottom: 0px;
+}
+
+.DDO{
+    margin-top: 8px;
+    margin-left: 500px;
+}
+.app{
+    margin-left: 50px;
+}
+
+.restante{
+    margin-top: 0px;
+    border: 0px solid black;
+    background-color: burlywood;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -292,3 +313,40 @@
     padding-bottom: 15px;
 }
 
+.DPD{
+    margin-left: 310px;
+}
+.fins{
+    margin-left: 50px;
+}
+
+.conosco{
+    font-size: 30px;
+    background-color: burlywood;
+}
+
+.compartilhe{
+    background-color: burlywood;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.insta{
+    margin-left: 850px;
+    width: 50px;
+    height: 50px;
+}
+
+.facebook{
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+.twitter{
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+}
