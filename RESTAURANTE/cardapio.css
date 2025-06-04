@@ -166,7 +166,7 @@
     transition: 0.3s;
 }
 
-.pizadoceescolha:hover{
+.pizzadoceescolha:hover{
     color: white; 
     background-color: coral; 
     cursor: pointer;
