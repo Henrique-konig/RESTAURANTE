@@ -36,12 +36,14 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .home:hover{
     color: white; 
     background-color: coral; 
     cursor: pointer;
+    transform: scale(1.05);
 }
 
 .cardapio{
@@ -54,10 +56,14 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .cardapio:hover{
-    cursor: pointer
+    color: white; 
+    background-color: coral; 
+    cursor: pointer;
+    transform: scale(1.05);
 }
 
 .delivery{
@@ -70,12 +76,14 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .delivery:hover{
     color: white; 
     background-color: coral; 
-    cursor: pointer
+    cursor: pointer;
+    transform: scale(1.05);
 }
 
 .reserva{
@@ -88,12 +96,14 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .reserva:hover{
     color: white;
     background-color: coral;
-    cursor: pointer
+    cursor: pointer;
+    transform: scale(1.05);
 }
 .delicias{
     font-size: 30px;
@@ -133,12 +143,14 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .pizzasalgadaescolha:hover{
     color: white; 
     background-color: coral; 
     cursor: pointer;
+    transform: scale(1.05);
 }
 
 .pizzadoceescolha{
@@ -151,12 +163,14 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .pizadoceescolha:hover{
     color: white; 
     background-color: coral; 
     cursor: pointer;
+    transform: scale(1.05);
 }
 
 .donutsescolha{
@@ -169,12 +183,14 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .donutsescolha:hover{
     color: white; 
     background-color: coral; 
     cursor: pointer;
+    transform: scale(1.05);
 }
 
 .minipaoescolha{
@@ -187,12 +203,14 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .minipaoescolha:hover{
     color: white; 
     background-color: coral; 
     cursor: pointer;
+    transform: scale(1.05);
 }
 
 .minipastelescolha{
@@ -205,10 +223,12 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .minipastelescolha:hover{
     color: white; 
     background-color: coral; 
     cursor: pointer;
+    transform: scale(1.05);
 }

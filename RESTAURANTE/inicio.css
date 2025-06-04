@@ -36,12 +36,14 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .home:hover{
     color: white; 
     background-color: coral; 
     cursor: pointer;
+    transform: scale(1.05);
 }
 
 .cardapio{
@@ -54,12 +56,14 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .cardapio:hover{
     color: white; 
     background-color: coral; 
     cursor: pointer;
+    transform: scale(1.05);
 }
 
 .delivery{
@@ -72,12 +76,14 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .delivery:hover{
     color: white; 
     background-color: coral; 
-    cursor: pointer
+    cursor: pointer;
+    transform: scale(1.05);
 }
 
 .reserva{
@@ -90,12 +96,14 @@
     border: 2px solid black;
     border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .reserva:hover{
     color: white;
     background-color: coral;
-    cursor: pointer
+    cursor: pointer;
+    transform: scale(1.05);
 }
 .delicias{
     font-size: 30px;
@@ -241,12 +249,14 @@
     border-radius: 10px ;
     background-color: burlywood;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .acessecardapio:hover{
     color: white; 
     background-color: coral; 
-    cursor: pointer
+    cursor: pointer;
+    transform: scale(1.05);
 }
 
 .pecadelivery{
@@ -257,12 +267,14 @@
     border-radius: 10px ;
     background-color: burlywood;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .pecadelivery:hover{
     color: white; 
     background-color: coral; 
-    cursor: pointer
+    cursor: pointer;
+    transform: scale(1.05);
 }
 
 .facareserva{
@@ -273,12 +285,14 @@
     border-radius: 10px ;
     background-color: burlywood;
     transition: background-color 0.3s ease, color 0.3s ease;
+    transition: 0.3s;
 }
 
 .facareserva:hover{
     color: white; 
     background-color: coral; 
-    cursor: pointer
+    cursor: pointer;
+    transform: scale(1.05);
 }
 
 .fim{
