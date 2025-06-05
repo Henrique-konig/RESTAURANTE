@@ -244,11 +244,13 @@
 
 .acessecardapio{
     padding: 10px;
-    border: 2px solid black;
+    margin-top: 30px;
     margin-left: 300px;
-    margin-top: 25px;
-    border-radius: 10px ;
     background-color: burlywood;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
     transition: 0.3s;
 }
@@ -262,11 +264,13 @@
 
 .pecadelivery{
     padding: 10px;
-    border: 2px solid black;
+    margin-top: 30px;
     margin-left: 200px;
-    margin-top: 25px;
-    border-radius: 10px ;
     background-color: burlywood;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
     transition: 0.3s;
 }
@@ -280,11 +284,13 @@
 
 .facareserva{
     padding: 10px;
-    border: 2px solid black;
+    margin-top: 30px;
     margin-left: 200px;
-    margin-top: 25px;
-    border-radius: 10px ;
     background-color: burlywood;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 10px;
     transition: background-color 0.3s ease, color 0.3s ease;
     transition: 0.3s;
 }
