@@ -121,13 +121,13 @@
     text-align: center;
     margin-top: 0px;
     color: rgb(0, 0, 0);
-    background-color: burlywood;
+    background-color: bisque;
     padding-bottom: 10px;
     text-shadow: 1px 1px 5px;
 }
 
 .tiposcomidas{
-    background-color: burlywood;
+    background-color: bisque;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
