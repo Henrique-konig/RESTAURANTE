@@ -130,13 +130,14 @@
     background-color: bisque;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
 }
 
 .pizzasalgadaescolha{
     padding: 15px 25px;
     margin-top: 30px;
-    margin-left: 60px;
+    margin-left: 70px;
     background-color: burlywood;
     color: rgb(0, 0, 0);
     text-decoration: none;
@@ -156,7 +157,7 @@
 .pizzadoceescolha{
     padding: 15px 25px;
     margin-top: 30px;
-    margin-left: 60px;
+    margin-left: 250px;
     background-color: burlywood;
     color: rgb(0, 0, 0);
     text-decoration: none;
@@ -176,7 +177,7 @@
 .donutsescolha{
     padding: 15px 25px;
     margin-top: 30px;
-    margin-left: 60px;
+    margin-left: 270px;
     background-color: burlywood;
     color: rgb(0, 0, 0);
     text-decoration: none;
@@ -196,7 +197,7 @@
 .minipaoescolha{
     padding: 15px 25px;
     margin-top: 30px;
-    margin-left: 60px;
+    margin-left: 285px;
     background-color: burlywood;
     color: rgb(0, 0, 0);
     text-decoration: none;
@@ -216,7 +217,7 @@
 .minipastelescolha{
     padding: 15px 25px;
     margin-top: 30px;
-    margin-left: 60px;
+    margin-left: 260px;
     background-color: burlywood;
     color: rgb(0, 0, 0);
     text-decoration: none;
@@ -231,4 +232,57 @@
     background-color: coral; 
     cursor: pointer;
     transform: scale(1.05);
+}
+
+.imagenscomidasescolha{
+    background-color: bisque;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.imagempizzasalgadaescolha{
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 6px;
+    margin-top: 5px;
+    box-shadow: 1px 1px 10px 1px black;
+}
+
+.imagempizzadoceescolha{
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 100px;
+    margin-top: 5px;
+    box-shadow: 1px 1px 10px 1px black;
+}
+
+.imagemdonutsescolha{
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 110px;
+    margin-top: 5px;
+    box-shadow: 1px 1px 10px 1px black;
+}
+
+.imagemminipaoescolha{
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 95px;
+    margin-top: 5px;
+    box-shadow: 1px 1px 10px 1px black;
+}
+
+.imagemminipastelescolha{
+    width: 300px;
+    height: 250px;
+    border-radius: 15px;
+    margin-left: 90px;
+    margin-top: 5px;
+    box-shadow: 1px 1px 10px 1px black;
 }
